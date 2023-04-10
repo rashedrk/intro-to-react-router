@@ -1,0 +1,11 @@
+.post{
+    border: 1px solid violet;
+    background-color: aqua;
+    color: black;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.post a {
+    margin: 5px;
+}
